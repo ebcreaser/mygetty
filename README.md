@@ -1,1 +1,1 @@
-small getty program
+# small getty program
